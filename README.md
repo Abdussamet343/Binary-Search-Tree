@@ -1,2 +1,2 @@
 # Binary-Search-Tree
-Kodluyoruz eğitimi kapsamında merge sort projesi
+Kodluyoruz eğitimi kapsamında Binary Search Tree projesi
